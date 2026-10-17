@@ -1,2 +1,2 @@
 # ChronixDj-
-A professional audio and video dj software for android 
+A professional audio and video dj software for android HUAWEI 
